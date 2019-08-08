@@ -25,6 +25,7 @@ management:
       exposure:
         include: hystrix.stream
 
+
 #ribbon:
 #  ConnectTimeout: 1000
 #  ReadTimeout: 1000
