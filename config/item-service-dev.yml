@@ -7,8 +7,6 @@ spring:
     username: admin
     password: admin
     
-#server:
-#  port: 8001
   
 eureka:
   client:
